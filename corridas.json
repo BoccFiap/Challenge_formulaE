@@ -1,0 +1,16 @@
+[
+    {
+        "corredores": [
+            "karol",
+            "bocchu"
+        ],
+        "vencedor": "karol"
+    },
+    {
+        "corredores": [
+            "karol",
+            "bocchi"
+        ],
+        "vencedor": "bocchi"
+    }
+]

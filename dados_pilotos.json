@@ -1,0 +1,141 @@
+{
+    "pilotos": [
+      {
+        "nome": "Jake Dennis",
+        "idade": 29,
+        "nascimento": "1995-06-16",
+        "pais": "Reino Unido"
+      },
+      {
+        "nome": "Stoffel Vandoorne",
+        "nascimento": "1992-03-26",
+        "pais": "Bélgica"
+      },
+      {
+        "nome": "Sergio Camara",
+        "idade": 29,
+        "nascimento": "1998-05-23",
+        "pais": "Brasil"
+      },
+      {
+        "nome": "Robin Frijns",
+        "idade": 33,
+        "nascimento": "1991-08-07",
+        "pais": "Holanda"
+      },
+      {
+        "nome": "Jake Hughes",
+        "idade": 30,
+        "nascimento": "1994-05-30",
+        "pais": "Reino Unido"
+      },
+      {
+        "nome": "Maximilian Gunther",
+        "idade": 29,
+        "nascimento": "1995-06-16",
+        "pais": "Reino Unido"
+      },
+      {
+        "nome": "Maximilian Gunther",
+        "idade": 27,
+        "nascimento": "1997-07-02",
+        "pais": "Alemanha"
+      },
+      {
+        "nome": "Sam Bird",
+        "idade": 37,
+        "nascimento": "1987-01-09",
+        "pais": "Reino Unido"
+      },
+      {
+        "nome": "Mitch Evans",
+        "idade": 30,
+        "nascimento": "1994-06-24",
+        "pais": "Nova Zelândia"
+      },
+      {
+        "nome": "Lucas di Grassi",
+        "idade": 40,
+        "nascimento": "1984-08-11",
+        "pais": "Brasil"
+      },
+      {
+        "nome": "Sébastien Buemi",
+        "idade": 35,
+        "nascimento": "1988-10-31",
+        "pais": "Suíça"
+      },
+      {
+        "nome": "Antonio Felix da Costa",
+        "idade": 33,
+        "nascimento": "1991-08-31",
+        "pais": "Portugal"
+      },
+      {
+        "nome": "Norman Nato",
+        "idade": 32,
+        "nascimento": "1992-07-08",
+        "pais": "França"
+      },
+      {
+        "nome": "Jehan Daruvala",
+        "idade": 25,
+        "nascimento": "1998-10-01",
+        "pais": "Índia"
+      },
+      {
+        "nome": "Nyck de Vries",
+        "idade": 29,
+        "nascimento": "1995-02-06",
+        "pais": "Holanda"
+      },
+      {
+        "nome": "Oliver Rowland",
+        "idade": 32,
+        "nascimento": "1992-08-10",
+        "pais": "Reino Unido"
+      },
+      {
+        "nome": "Sacha Fenestraz",
+        "idade": 25,
+        "nascimento": "1999-06-28",
+        "pais": "França"
+      },
+      {
+        "nome": "Jean-Eric Vergne",
+        "idade": 34,
+        "nascimento": "1990-04-25",
+        "pais": "França"
+      },
+      {
+        "nome": "Dan Ticktum",
+        "idade": 25,
+        "nascimento": "1999-06-08",
+        "pais": "Reino Unido"
+      },
+      {
+        "nome": "Nick Cassidy",
+        "idade": 30,
+        "nascimento": "1994-08-19",
+        "pais": "Nova Zelândia"
+      },
+      {
+        "nome": "Edoardo Mortara",
+        "idade": 37,
+        "nascimento": "1987-01-12",
+        "pais": "Suíça"
+      },
+      {
+        "nome": "Nico Müller",
+        "idade": 32,
+        "nascimento": "1992-02-25",
+        "pais": "Suíça"
+      },
+      {
+        "nome": "Pascal Wehrlein",
+        "idade": 29,
+        "nascimento": "1994-10-18",
+        "pais": "Alemanha"
+      }      
+    ]
+}

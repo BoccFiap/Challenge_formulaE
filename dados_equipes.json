@@ -1,0 +1,112 @@
+{
+    "equipes": [
+    {
+      "nome": "ABT CUPRA Formula E Team",
+      "nacionalidade": "Kempten, Germany",
+      "carros": ["Mahindra M10Electro"],
+      "pilotos": ["Lucas di Grassi", "Nico Müller"],
+      "vitorias": 14,
+      "podios": 47,
+      "corridas": 115
+    },
+    {
+      "nome": "Andretti Formula E",
+      "nacionalidade": "Indianapolis, USA",
+      "carros": ["Porsche 99X Electric Gen3"],
+      "pilotos": ["Jake Dennis, Norman Nato"],
+      "vitorias": 11,
+      "podios": 37,
+      "corridas": 132
+    },
+    {
+        "nome": "DS Penske",
+        "nacionalidade": "Versailles, France",
+        "carros": ["DS E-TENSE FE23"],
+        "pilotos": ["Jean-Éric Vergne, Stoffel Vandoorne "],
+        "vitorias": 3,
+        "podios": 17,
+        "corridas": 132
+    },
+    {
+        "nome": "Envision Racing",
+        "nacionalidade": "Silverstone, UK",
+        "carros": ["Jaguar I-Type 6"],
+        "pilotos": ["Robin Frijns, Sébastien Buemi"],
+        "vitorias": 16,
+        "podios": 53,
+        "corridas": 132
+  
+    },
+    {
+        "nome": "ERT Formula E Team",
+        "nacionalidade": "Silverstone, UK",
+        "carros": ["Nissan IM03"],
+        "pilotos": ["Dan Ticktum, Sergio Camara "],
+        "vitorias": 2,
+        "podios": 6,
+        "corridas": 132
+  
+    },
+    {
+        "nome": "Jaguar TCS Racing",
+        "nacionalidade": "Coventry, UK",
+        "carros": ["Jaguar I-Type 6"],
+        "pilotos": ["Mitch Evans, Nick Cassidy"],
+        "vitorias": 16,
+        "podios": 16,
+        "corridas": 111
+  
+    },
+    {
+        "nome": "Mahindra Racing",
+        "nacionalidade": "Banbury, UK",
+        "carros": ["Mahindra M10Electro"],
+        "pilotos": ["Edoardo Mortara, Nyck de Vries"],
+        "vitorias": 5,
+        "podios": 24,
+        "corridas": 131
+  
+    },
+    {
+        "nome": "Maserati MSG Racing",
+        "nacionalidade": "Monte Carlo, Monaco",
+        "carros": ["Maserati Tipo Folgore"],
+        "pilotos": ["Jehan Daruvala, Maximilian Gunther"],
+        "vitorias": 10,
+        "podios": 27,
+        "corridas": 132
+  
+    },
+    {
+        "nome": "NEOM McLaren Formula E Team",
+        "nacionalidade": "Bicester, UK",
+        "carros": ["Nissan e-4ORCE 04"],
+        "pilotos": ["Jake Hughes, Sam Bird"],
+        "vitorias": 8,
+        "podios": 26,
+        "corridas": 87
+  
+    },
+    {
+        "nome": "Nissan Formula E Team",
+        "nacionalidade": "Le Mans, France",
+        "carros": ["Nissan e-4ORCE 04"],
+        "pilotos": ["Oliver Rowland, Sacha Fenestraz"],
+        "vitorias": 19,
+        "podios": 47,
+        "corridas": 132
+  
+    },
+    {
+        "nome": "TAG Heuer Porsche Formula E Team",
+        "nacionalidade": "Stuttgart, Germany",
+        "carros": ["Porsche 99X Electric Gen3"],
+        "pilotos": ["Pascal Wehrlein, Antonio Felix da Costa"],
+        "vitorias": 12,
+        "podios": 22,
+        "corridas": 74
+  
+    }
+
+  ]
+}

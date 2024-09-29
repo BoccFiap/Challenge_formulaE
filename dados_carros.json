@@ -1,0 +1,36 @@
+{
+    "carros": [
+      {
+        "modelo": "Mahindra M10Electro",
+        "velocidade_maxima": 280
+      },
+      {
+        "modelo": "Porsche 99X Electric Gen3",
+        "velocidade_maxima": 285
+      },
+      {
+        "modelo": "DS E-TENSE FE23",
+        "velocidade_maxima": 280
+      },
+      {
+        "modelo": "Jaguar I-Type 6",
+        "velocidade_maxima": 275
+      },
+      {
+        "modelo": "ERT X24",
+        "velocidade_maxima": 280
+      },
+      {
+        "modelo": "Jaguar I-Type 6",
+        "velocidade_maxima": 275
+      },
+      {
+        "modelo": "Maserati Tipo Folgore",
+        "velocidade_maxima": 280
+      },      
+      {
+        "modelo": "Nissan e-4ORCE 04",
+        "velocidade_maxima": 275
+      }
+    ]
+}

@@ -1,0 +1,118 @@
+{        
+  "pistas": [
+      {
+        "nome": "2024 Mexico City E-Prix",
+        "round": 1,
+        "dia": ["13/01/2024"],
+        "campeoes_anteriores": ["Sam Bird"],
+        "melhor_tempo": "1:15:302"
+      },
+      {
+        "nome": "2024 Diriyah E-Prix",
+        "round": 2,
+        "dia": ["26/01/2024"],
+        "campeoes_anteriores": ["Jake Dennis"],        
+        "melhor_tempo": "1:11:399"
+      },
+      {
+        "nome": "2024 Diriyah E-Prix",
+        "round": 3,
+        "dia": ["27/01/2024"],
+        "campeoes_anteriores": ["Nick Cassidy"],
+        "melhor_tempo": "1:10:606"
+      },
+      {
+        "nome": "2024 São Paulo E-Prix",
+        "round": 4,
+        "dia": ["16/03/2024"],
+        "campeoes_anteriores": ["Sam Bird"],
+        "melhor_tempo": "1:15:873"
+        
+      },
+      {
+        "nome": "2024 Tokyo E-Prix",
+        "round": 5,
+        "dia": ["30/03/2024"],
+        "campeoes_anteriores": ["Maximilian Gunther"],
+        "melhor_tempo": "1:21:699"
+      },
+      {
+        "nome": "2024 Misano E-Prix",
+        "round": 6,
+        "dia": ["13/04/2024"],
+        "campeoes_anteriores": ["Oliver Rowland"],
+        "melhor_tempo": "  "
+      },
+      {
+        "nome": "2024 Misano E-Prix",
+        "round": 7,
+        "dia": ["14/04/2024"],
+        "campeoes_anteriores": ["Pascal Wehrlein"],
+        "melhor_tempo": "1:19:512"
+      },
+      {
+        "nome": "2024 Monaco E-Prix",
+        "round": 8,
+        "dia": ["27/04/2024"],
+        "campeoes_anteriores": ["Mitch Evans"],
+        "melhor_tempo": "1:32:203"
+      },
+      {
+        "nome": "2024 SUN MINIMEAL Berlin E-Prix",
+        "round": 9,
+        "dia": ["11/05/2024"],
+        "campeoes_anteriores": ["Nick Cassidy"],
+        "melhor_tempo": "1:03:355"
+      },
+      {
+        "nome": "2024 SUN MINIMEAL Berlin E-Prix",
+        "round": 10,
+        "dia": ["12/05/2024"],
+        "campeoes_anteriores": ["Antonio Felix da Costa"],
+        "melhor_tempo": "1:04:045"
+      },
+      {
+        "nome": "2024 Shanghai E-Prix",
+        "round": 11,
+        "dia": ["25/05/2024"],
+        "campeoes_anteriores": ["Mitch Evans"],
+        "melhor_tempo": "1:16:088"
+      },
+      {
+        "nome": "Shanghai E-Prix",
+        "round": 12,
+        "dia": ["26/05/2024"],
+        "campeoes_anteriores": ["Antonio Felix da Costa"],
+        "melhor_tempo": "1:15:852"
+      },
+      {
+        "nome": "2024 Hankook Portland E-Prix",
+        "round": 13,
+        "dia": ["29/06/2024"],
+        "campeoes_anteriores": ["Antonio Felix da Costa"],
+        "melhor_tempo": "1:11:806"
+      },
+      {
+        "nome": "2024 Hankook Portland E-Prix",
+        "round": 14,
+        "dia": ["29/06/2024"],
+        "campeoes_anteriores": ["Antonio Felix da Costa"],
+        "melhor_tempo": "1:11:806"
+      },
+      {
+        "nome": "2024 Hankook London E-Prix",
+        "round": 15,
+        "dia": ["20/06/2024"],
+        "campeoes_anteriores": ["Pascal Wehrlein"],
+        "melhor_tempo": "1:11:909"
+      },
+      {
+        "nome": "2024 Hankook London E-Prix",
+        "round": 16,
+        "dia": ["21/07/2024"],
+        "campeoes_anteriores": ["Oliver Rowland"],
+        "melhor_tempo": "1:11:608"
+      }   
+    ]
+  }
+  
